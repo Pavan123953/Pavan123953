@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavan123953&label=Profile%20views&color=0e75b6&style=flat" alt="pavan123953" /> </p>
 
-- 🔭 I’m currently working on [Data Visualization Tableau Dashboard](https://public.tableau.com/app/profile/mouli.sri.sai.surya.pavan.peruri/viz/IMDB_DATA_VISAULIZATION_TABLEAU/Presentation)
+- 🔭 I’m currently working on [Azure End to End Data Engineering pipeline] 
 
 - 🌱 I’m currently learning **Data Engineering**
 
